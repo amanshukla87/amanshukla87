@@ -94,6 +94,7 @@ I am especially interested in systems where **real-world sensor data leads to us
 ## Connect
 
 - **GitHub:** [@amanshukla87](https://github.com/amanshukla87)
+- **LinkedIn:** [Aman Shukla](https://www.linkedin.com/in/amanshukla87/)
 - **Email:** `amanshuklaab106@gmail.com`
 
 ---
