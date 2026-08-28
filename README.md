@@ -2,27 +2,25 @@
 
 **Electronics & Communication Engineering Student · Embedded Systems · Firmware · IoT · Edge AI · VLSI · Robotics**
 
-I build practical electronics and intelligent embedded systems by combining **hardware, firmware, sensors, and edge computing**. My interests include embedded firmware, sensor-based systems, IoT, UAVs, computer vision, TinyML, Edge AI, and digital/VLSI design.
+I work on practical electronics and embedded systems, combining **hardware, firmware, sensors, and software**. My main interests are embedded firmware, IoT, sensor systems, Edge AI, TinyML, UAVs, robotics, and digital/VLSI design.
 
-I prefer projects that go beyond simulation: **interface the hardware → develop the firmware/software → test the system → measure results → document the implementation.**
+I like building things that can be tested on real hardware and measured properly, not just simulated.
 
 ---
 
-## Focus Areas
+## Areas I Work In
 
-| Area | What I work with |
-|---|---|
-| **Embedded Systems** | STM32, Arduino, ESP32, ESP8266, AVR, Embedded C |
-| **IoT & Sensors** | Sensor interfacing, data acquisition, communication, monitoring |
-| **AI at the Edge** | TinyML, YOLO, OpenCV, Deep Learning, Raspberry Pi |
-| **Robotics & UAVs** | Robotics systems, Pixhawk, UAV vision and autonomous-system concepts |
-| **VLSI & Digital Design** | Verilog, RTL concepts, Vivado, Quartus, ModelSim |
-| **Development** | C, C++, Python, MATLAB, Git, Linux, Keil, Proteus |
+- **Embedded Systems:** STM32, Arduino, ESP32, ESP8266, AVR, Embedded C
+- **IoT & Sensors:** Sensor interfacing, data acquisition, monitoring, communication
+- **Edge AI & Computer Vision:** TinyML, YOLO, OpenCV, Deep Learning, Raspberry Pi
+- **Robotics & UAVs:** Pixhawk, sensor integration, UAV vision, robotics systems
+- **VLSI & Digital Design:** Verilog, RTL, Vivado, Quartus, ModelSim
+- **Development:** C, C++, Python, MATLAB, Git, Linux, Keil, Proteus
 
 ## Technical Skills
 
 **Languages:** C · C++ · Embedded C · Python · MATLAB · Verilog  
-**MCUs / Boards:** STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi  
+**Boards:** STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi  
 **AI / Vision:** YOLO · OpenCV · Deep Learning · TinyML · Edge AI  
 **Interfaces:** UART · I²C · SPI · CAN · GPIO · PWM  
 **Tools:** Keil µVision · Proteus · Vivado · Quartus · ModelSim · Git · Linux  
@@ -32,71 +30,57 @@ I prefer projects that go beyond simulation: **interface the hardware → develo
 
 ## Education
 
-**B.Tech. in Electronics & Communication Engineering**  
+**B.Tech. — Electronics & Communication Engineering**  
 Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti · AKTU  
-**2024–2027** · Specialization/Honors: Sensors & Transducers Technology
+2024–2027 · Sensors & Transducers Technology
 
-**Diploma in Electronics Engineering**  
+**Diploma — Electronics Engineering**  
 Government Polytechnic Saharanpur  
-**2019–2022** · First Division with Honours
+2019–2022 · First Division with Honours
 
 ---
 
-## Experience & Research
+## Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-Worked on UAV-based computer vision, object detection with YOLO, dataset preparation, model training, and Raspberry Pi edge deployment.
+Worked on UAV-based computer vision, YOLO object detection, dataset preparation, model training, and Raspberry Pi deployment.
 
 **Embedded Systems Intern — Autonomous Robotics**  
-Worked on embedded and robotics-oriented development and practical hardware/software integration.
+Worked on embedded and robotics systems with practical hardware and software integration.
 
 **IoT & Embedded Systems Intern — CETPA InfoTech**  
-Hands-on exposure to IoT and embedded-system development.
+Worked with IoT and embedded-system concepts through practical development work.
 
 ---
 
-## Selected Achievements
+## Achievements
 
-- 🥇 **1st Rank — College-Level Internal Hackathon**
-- 🏅 **Smart India Hackathon 2025 — Team Lead**
-- 🥇 **Gold Medal — Academic Excellence, Diploma**
-- 🥈 **Silver Medal — Radar-Based Object Detection System**
+- **1st Rank** — College-Level Internal Hackathon
+- **Team Lead** — Smart India Hackathon 2025
+- **Gold Medal** — Academic Excellence, Diploma
+- **Silver Medal** — Radar-Based Object Detection System
 
 ## Certifications
 
-- **Digital System Design** — NPTEL, IIT Ropar
-- **Micro Sensors & Nano Sensors** — NPTEL, IIT Guwahati
-- **Introduction to IoT** — NPTEL, IIT Kharagpur
-- **Deep Learning Course: Deep Dive into Deep Learning** — Scaler
-- **VLSI Design & Verilog Programming** — Udemy
-- **VLSI Design with AI: Basics to Advanced** — IIT Madras Pravartak
+- Digital System Design — NPTEL, IIT Ropar
+- Micro Sensors & Nano Sensors — NPTEL, IIT Guwahati
+- Introduction to IoT — NPTEL, IIT Kharagpur
+- Deep Learning Course: Deep Dive into Deep Learning — Scaler
+- VLSI Design & Verilog Programming — Udemy
+- VLSI Design with AI: Basics to Advanced — IIT Madras Pravartak
 
 ---
 
-## Currently Building
+## Current Focus
 
-My current technical direction is focused on **STM32-based embedded systems, sensor and industrial IoT applications, TinyML/Edge AI, UAV computer vision, robotics, and VLSI/digital design**.
+I am currently working on **STM32-based embedded systems, sensor and industrial IoT applications, TinyML/Edge AI, UAV computer vision, robotics, and VLSI/digital design**.
 
-I am especially interested in systems where **real-world sensor data leads to useful decisions directly on the edge**, with an emphasis on efficient firmware, reliable hardware interfacing, and measurable performance.
-
----
-
-## GitHub Goals
-
-- Build and document **real embedded and electronics projects**
-- Publish reproducible experiments with clear hardware/software details
-- Explore **TinyML and Edge AI on resource-constrained devices**
-- Develop stronger **firmware, VLSI, and embedded Linux** skills
-- Maintain clean, useful repositories that reflect practical engineering work
+My goal is to build projects that are implemented on real hardware, tested with actual data, and documented clearly.
 
 ---
 
 ## Connect
 
-- **GitHub:** [@amanshukla87](https://github.com/amanshukla87)
-- **LinkedIn:** [Aman Shukla](https://www.linkedin.com/in/amanshukla87/)
+- **LinkedIn:** [linkedin.com/in/amanshukla87](https://www.linkedin.com/in/amanshukla87/)
+- **GitHub:** [github.com/amanshukla87](https://github.com/amanshukla87)
 - **Email:** `amanshuklaab106@gmail.com`
-
----
-
-> **Build. Test. Measure. Document.**
