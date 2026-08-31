@@ -27,25 +27,27 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 
 ---
 
-## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="38px"> Languages and Technologies I Work With
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="32px"> Languages and Technologies I Work With
 
 ### Programming
 
-<code><img width="40" src="https://cdn.simpleicons.org/c" alt="C" title="C"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/cplusplus" alt="C++" title="C++"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/python" alt="Python" title="Python"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/matlab" alt="MATLAB" title="MATLAB"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/verilog" alt="Verilog" title="Verilog"></code>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/c-programming.png" width="40" title="C" alt="C"></a>
+<a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40" title="C++" alt="C++"></a>
+<a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/python.png" width="40" title="Python" alt="Python"></a>
+<a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.simpleicons.org/matlab" width="40" title="MATLAB" alt="MATLAB"></a>
+<a href="https://www.verilog.com/"><img src="https://cdn.simpleicons.org/verilog" width="40" title="Verilog" alt="Verilog"></a>
+
+**C · C++ · Embedded C · Python · MATLAB · Verilog**
 
 ### Embedded Systems & Hardware
 
-<code><img width="40" src="https://cdn.simpleicons.org/stmicroelectronics" alt="STM32" title="STM32"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/arduino" alt="Arduino" title="Arduino"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/espressif" alt="ESP32 / ESP8266" title="ESP32 / ESP8266"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/raspberrypi" alt="Raspberry Pi" title="Raspberry Pi"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux"></code>
+<a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://cdn.simpleicons.org/stmicroelectronics" width="40" title="STM32 / STMicroelectronics" alt="STM32"></a>
+<a href="https://www.arduino.cc/"><img src="https://cdn.simpleicons.org/arduino" width="40" title="Arduino" alt="Arduino"></a>
+<a href="https://www.espressif.com/"><img src="https://cdn.simpleicons.org/espressif" width="40" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"></a>
+<a href="https://www.raspberrypi.com/"><img src="https://cdn.simpleicons.org/raspberrypi" width="40" title="Raspberry Pi" alt="Raspberry Pi"></a>
+<a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" width="40" title="Linux" alt="Linux"></a>
 
-**STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi**
+**STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Embedded C**
 
 ### UAV & Robotics
 
@@ -57,12 +59,12 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 
 ### AI, Computer Vision & Edge AI
 
-<code><img width="40" src="https://cdn.simpleicons.org/opencv" alt="OpenCV" title="OpenCV"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/ultralytics" alt="Ultralytics YOLO" title="Ultralytics YOLO"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/tensorflow" alt="TensorFlow / TensorFlow Lite" title="TensorFlow / TensorFlow Lite"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/pytorch" alt="PyTorch" title="PyTorch"></code>
+<a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="40" title="OpenCV" alt="OpenCV"></a>
+<a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow" alt="TensorFlow"></a>
+<a href="https://www.tensorflow.org/lite"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow Lite" alt="TensorFlow Lite"></a>
+<a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics" alt="Ultralytics"></a>
 
-**OpenCV · YOLO11 · Ultralytics · TensorFlow · TensorFlow Lite · PyTorch · Deep Learning · TinyML · Edge AI · Computer Vision**
+**OpenCV · YOLO11 · Ultralytics · TensorFlow · TensorFlow Lite · Deep Learning · TinyML · Edge AI · Computer Vision**
 
 ### Digital Design, VLSI & FPGA
 
@@ -70,10 +72,9 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 
 ### Development & Engineering Tools
 
-<code><img width="40" src="https://cdn.simpleicons.org/git" alt="Git" title="Git"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/vscodium" alt="VS Code" title="VS Code"></code>
-<code><img width="40" src="https://cdn.simpleicons.org/linux" alt="Linux" title="Linux"></code>
+<a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" alt="Git"></a>
+<a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" alt="GitHub"></a>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" width="40" title="VS Code" alt="VS Code"></a>
 
 **Keil µVision · Proteus · MATLAB · Git · GitHub · VS Code · Linux**
 
@@ -124,18 +125,18 @@ Government Polytechnic Saharanpur
 
 ---
 
-## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="45px"> My Engineering Profiles!
+## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="40px"> Engineering Profiles
 
-<code><a href="https://github.com/amanshukla87"><img width="40" src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub"></a></code>
-<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="40" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn"></a></code>
+<a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/amanshukla87/"><img src="https://img.icons8.com/color/48/linkedin.png" width="40" title="LinkedIn" alt="LinkedIn"></a>
 
 ---
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="45px"> Lets Connect!
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="40px"> Lets Connect!
 
-<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="45" src="https://cdn.simpleicons.org/linkedin" alt="LinkedIn" title="LinkedIn"></a></code>
-<code><a href="mailto:amanshuklaab106@gmail.com"><img width="45" src="https://cdn.simpleicons.org/gmail" alt="Gmail" title="Email"></a></code>
-<code><a href="https://github.com/amanshukla87"><img width="45" src="https://cdn.simpleicons.org/github" alt="GitHub" title="GitHub"></a></code>
+<a href="https://www.linkedin.com/in/amanshukla87/"><img src="https://img.icons8.com/color/48/linkedin.png" width="45" title="LinkedIn" alt="LinkedIn"></a>
+<a href="mailto:amanshuklaab106@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" width="45" title="Email" alt="Email"></a>
+<a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="45" title="GitHub" alt="GitHub"></a>
 
 <br>
 
