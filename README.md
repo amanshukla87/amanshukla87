@@ -1,6 +1,10 @@
 <h1 align="center">Aman Shukla</h1>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=750&lines=Embedded+Systems+%7C+Firmware+%7C+IoT;STM32+%7C+Embedded+C+%7C+Sensors+%7C+RTOS;UAVs+%7C+Robotics+%7C+Computer+Vision;Edge+AI+%7C+TinyML+%7C+Digital+Design;Electronics+Engineering+Student+%7C+ECE%2727" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <b>Electronics Engineering Student (ECE'27)</b><br>
   Embedded Systems · Firmware · Sensors & Transducers · IoT · Robotics · UAVs · Edge AI · VLSI/FPGA
 </p>
