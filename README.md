@@ -23,7 +23,7 @@ I am an Electronics Engineering student focused on **embedded systems, firmware,
 
 I prefer working on complete systems — from **hardware interfacing and embedded firmware to testing, data collection, deployment, and documentation**. My projects are centered on practical implementation using real hardware rather than only simulation.
 
-I am currently building deeper hands-on experience with **STM32, embedded C, communication protocols, industrial IoT, TinyML/Edge AI, UAV systems, and digital design**.
+I am currently building deeper hands-on experience with **STM32, Embedded C, communication protocols, industrial IoT, TinyML/Edge AI, UAV systems, and digital design**.
 
 ---
 
@@ -33,6 +33,7 @@ I am currently building deeper hands-on experience with **STM32, embedded C, com
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,verilog" height="52" alt="C, C++, Python, MATLAB, Verilog" />
+  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" height="34" alt="Embedded C" />
 </p>
 
 ### ⚙️ Embedded Systems & Hardware
