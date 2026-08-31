@@ -37,8 +37,6 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.simpleicons.org/matlab" width="40" title="MATLAB" alt="MATLAB"></a>
 <a href="https://www.verilog.com/"><img src="https://cdn.simpleicons.org/verilog" width="40" title="Verilog" alt="Verilog"></a>
 
-**C · C++ · Embedded C · Python · MATLAB · Verilog**
-
 ### Embedded Systems & Hardware
 
 <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html"><img src="https://cdn.simpleicons.org/stmicroelectronics" width="40" title="STM32 / STMicroelectronics" alt="STM32"></a>
@@ -46,8 +44,6 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.espressif.com/"><img src="https://cdn.simpleicons.org/espressif" width="40" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"></a>
 <a href="https://www.raspberrypi.com/"><img src="https://cdn.simpleicons.org/raspberrypi" width="40" title="Raspberry Pi" alt="Raspberry Pi"></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" width="40" title="Linux" alt="Linux"></a>
-
-**STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Embedded C**
 
 ### UAV & Robotics
 
@@ -64,8 +60,6 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.tensorflow.org/lite"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow Lite" alt="TensorFlow Lite"></a>
 <a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics" alt="Ultralytics"></a>
 
-**OpenCV · YOLO11 · Ultralytics · TensorFlow · TensorFlow Lite · Deep Learning · TinyML · Edge AI · Computer Vision**
-
 ### Digital Design, VLSI & FPGA
 
 **Verilog · RTL · Xilinx Vivado · Intel Quartus · ModelSim**
@@ -75,8 +69,6 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" alt="Git"></a>
 <a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" width="40" title="VS Code" alt="VS Code"></a>
-
-**Keil µVision · Proteus · MATLAB · Git · GitHub · VS Code · Linux**
 
 ---
 
