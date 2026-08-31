@@ -31,11 +31,10 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 
 ### Programming
 
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/c-programming.png" width="40" title="C" alt="C"></a>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://img.icons8.com/color/48/c-programming.png" width="40" title="C / Embedded C" alt="C"></a>
 <a href="https://isocpp.org/"><img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="40" title="C++" alt="C++"></a>
 <a href="https://www.python.org/"><img src="https://img.icons8.com/color/48/python.png" width="40" title="Python" alt="Python"></a>
 <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.simpleicons.org/matlab" width="40" title="MATLAB" alt="MATLAB"></a>
-<a href="https://www.verilog.com/"><img src="https://cdn.simpleicons.org/verilog" width="40" title="Verilog" alt="Verilog"></a>
 
 ### Embedded Systems & Hardware
 
@@ -45,11 +44,32 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.raspberrypi.com/"><img src="https://cdn.simpleicons.org/raspberrypi" width="40" title="Raspberry Pi" alt="Raspberry Pi"></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" width="40" title="Linux" alt="Linux"></a>
 
+### UAV & Robotics
+
+<a href="https://pixhawk.org/"><img src="https://cdn.simpleicons.org/pixhawk" width="40" title="Pixhawk" alt="Pixhawk"></a>
+
+### Communication & Interfaces
+
+<a href="https://mqtt.org/"><img src="https://cdn.simpleicons.org/mqtt" width="40" title="MQTT" alt="MQTT"></a>
+
+### AI, Computer Vision & Edge AI
+
 <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="40" title="OpenCV" alt="OpenCV"></a>
 <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow" alt="TensorFlow"></a>
 <a href="https://www.tensorflow.org/lite"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow Lite" alt="TensorFlow Lite"></a>
-<a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics" alt="Ultralytics"></a>
+<a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics / YOLO11" alt="Ultralytics"></a>
 
+### Digital Design, VLSI & FPGA
+
+<a href="https://www.verilog.com/"><img src="https://cdn.simpleicons.org/verilog" width="40" title="Verilog / RTL" alt="Verilog"></a>
+<a href="https://www.amd.com/en/products/software/adaptive-socs-and-fpgas/vivado.html"><img src="https://cdn.simpleicons.org/amd" width="40" title="AMD Xilinx Vivado" alt="AMD Xilinx"></a>
+<a href="https://www.intel.com/content/www/us/en/software/programmable/quartus-prime/overview.html"><img src="https://cdn.simpleicons.org/intel" width="40" title="Intel Quartus" alt="Intel"></a>
+<a href="https://eda.sw.siemens.com/en-US/ic/modelsim/"><img src="https://cdn.simpleicons.org/siemens" width="40" title="Siemens ModelSim" alt="Siemens"></a>
+
+### Development & Engineering Tools
+
+<a href="https://www.keil.com/"><img src="https://cdn.simpleicons.org/arm" width="40" title="Keil µVision / Arm" alt="Arm"></a>
+<a href="https://www.labcenter.com/"><img src="https://cdn.simpleicons.org/labcenter" width="40" title="Proteus" alt="Labcenter"></a>
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" alt="Git"></a>
 <a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" alt="GitHub"></a>
 <a href="https://code.visualstudio.com/"><img src="https://cdn.simpleicons.org/visualstudiocode" width="40" title="VS Code" alt="VS Code"></a>
