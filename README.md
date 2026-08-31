@@ -31,9 +31,9 @@ My current focus is on **STM32 and Embedded C, industrial sensor systems, commun
 
 ### Programming
 
-<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=c" title="C"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=cpp" title="C++"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=python" title="Python"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=verilog" title="Verilog"/></code>
 
@@ -44,46 +44,25 @@ My current focus is on **STM32 and Embedded C, industrial sensor systems, commun
 <code><img width="40px" src="https://skillicons.dev/icons?i=esp32" title="ESP32"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=linux" title="Linux"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/000000/arm.png" title="ARM"/></code>
 
 ### UAV & Robotics
-
-<code><img width="40px" src="https://img.icons8.com/color/48/drone.png" title="UAV / Drone Systems"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/mission-planner.png" title="Mission Planner"/></code>
-<code><img width="40px" src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi"/></code>
 
 **Pixhawk · Mission Planner · GPS · ESC · Brushless Motors · UAV Integration · Sensor Integration**
 
 ### Communication Protocols & Interfaces
 
-<code><img width="40px" src="https://img.icons8.com/fluency/48/serial-port.png" title="UART / Serial"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/i2c.png" title="I²C"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/spi.png" title="SPI"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/can-bus.png" title="CAN"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/mqtt.png" title="MQTT"/></code>
-
 **UART · I²C · SPI · CAN · MQTT · GPIO · PWM · ADC**
 
 ### AI, Computer Vision & Edge AI
 
-<code><img width="40px" src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/></code>
-<code><img width="40px" src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/></code>
-<code><img width="40px" src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/></code>
-<code><img width="40px" src="https://img.icons8.com/color/48/artificial-intelligence.png" title="AI / Deep Learning"/></code>
-
-**OpenCV · YOLO · Deep Learning · TinyML · Edge AI · Computer Vision**
+**OpenCV · YOLO · TensorFlow · PyTorch · Deep Learning · TinyML · Edge AI · Computer Vision**
 
 ### Digital Design, VLSI & FPGA
 
-<code><img width="40px" src="https://skillicons.dev/icons?i=verilog" title="Verilog"/></code>
-<code><img width="40px" src="https://img.shields.io/badge/RTL-37474F?style=flat-square" title="RTL"/></code>
-<code><img width="40px" src="https://img.shields.io/badge/Vivado-ED1C24?style=flat-square&logo=xilinx&logoColor=white" title="Xilinx Vivado"/></code>
-<code><img width="40px" src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white" title="Intel Quartus"/></code>
-<code><img width="40px" src="https://img.shields.io/badge/ModelSim-0066A1?style=flat-square" title="ModelSim"/></code>
+**Verilog · RTL · Xilinx Vivado · Intel Quartus · ModelSim**
 
 ### Development & Engineering Tools
 
-<code><img width="40px" src="https://img.icons8.com/color/48/keil.png" title="Keil µVision"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=git" title="Git"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=github" title="GitHub"/></code>
 <code><img width="40px" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></code>
@@ -140,16 +119,16 @@ Government Polytechnic Saharanpur
 
 ## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> My Engineering Profiles!
 
-<code><a href="https://github.com/amanshukla87"><img width="40px" src="https://img.icons8.com/fluent/96/github.png" title="GitHub"/></a></code>
-<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="40px" src="https://img.icons8.com/color/96/linkedin.png" title="LinkedIn"/></a></code>
+<code><a href="https://github.com/amanshukla87"><img width="40px" src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></code>
+<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="40px" src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/></a></code>
 
 ---
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Lets Connect!
 
-<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="LinkedIn"/></a></code>
-<code><a href="mailto:amanshuklaab106@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
-<code><a href="https://github.com/amanshukla87"><img width="45px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></a></code>
+<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="45px" src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn"/></a></code>
+<code><a href="mailto:amanshuklaab106@gmail.com"><img width="45px" src="https://skillicons.dev/icons?i=gmail" title="Gmail"/></a></code>
+<code><a href="https://github.com/amanshukla87"><img width="45px" src="https://skillicons.dev/icons?i=github" title="GitHub"/></a></code>
 
 <br>
 
