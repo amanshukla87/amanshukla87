@@ -1,41 +1,78 @@
+<div align="center">
+
 # Aman Shukla
 
-**Electronics Engineering Student (ECE'27) · Embedded Systems · Firmware · IoT · Robotics · VLSI/FPGA**
+### Electronics Engineering Student (ECE'27) | Embedded Systems & Firmware
 
-I build practical electronics and embedded systems by combining **hardware, firmware, sensors, and software**. My work and interests include embedded development, sensor-based systems, IoT, robotics, UAVs, Edge AI, and digital design.
+**IoT • Sensors & Transducers • Robotics • UAVs • VLSI/FPGA • Edge AI**
 
-I prefer projects that are built on real hardware, tested with actual data, and documented clearly.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanshukla87/)
+[![GitHub](https://img.shields.io/badge/GitHub-amanshukla87-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanshukla87)
 
----
-
-## What I Work On
-
-- 🔧 **Embedded Systems & Firmware** — STM32, Arduino, ESP32, AVR, Embedded C
-- 📡 **Sensors & IoT** — sensor interfacing, data acquisition, monitoring, communication
-- 🤖 **Robotics & UAVs** — motor control, sensor integration, Pixhawk, UAV systems
-- 🧠 **Edge AI & Computer Vision** — Raspberry Pi, OpenCV, YOLO, TinyML
-- 💻 **VLSI & FPGA** — Verilog, RTL, Vivado, Quartus, ModelSim
-
-## Technical Stack
-
-**Programming**  
-C · C++ · Embedded C · Python · MATLAB · Verilog
-
-**Embedded & Hardware**  
-STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Pixhawk
-
-**Interfaces & Protocols**  
-UART · I²C · SPI · CAN · GPIO · PWM · MQTT
-
-**AI & Vision**  
-OpenCV · YOLO · Deep Learning · TinyML · Edge AI
-
-**Tools & Development**  
-Keil µVision · Proteus · Vivado · Quartus · ModelSim · Git · Linux
+</div>
 
 ---
 
-## Education
+## 👋 About Me
+
+I build practical electronics and embedded systems by bringing together **hardware, firmware, sensors, and software**.
+
+My main areas are **embedded firmware, sensor systems, IoT, robotics, UAVs, Edge AI, and digital/VLSI design**. I enjoy working close to the hardware — interfacing components, writing firmware, testing on real boards, and documenting what actually works.
+
+---
+
+## 🧰 Languages & Technologies I Work With
+
+<div align="center">
+
+### Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,verilog" height="55" />
+
+### Embedded & Hardware
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,linux" height="55" />
+
+### Development & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" height="55" />
+
+</div>
+
+**Embedded:** STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Pixhawk  
+**Interfaces:** UART · I²C · SPI · CAN · GPIO · PWM · MQTT  
+**AI & Vision:** OpenCV · YOLO · Deep Learning · TinyML · Edge AI  
+**Digital Design:** Verilog · RTL · Vivado · Quartus · ModelSim  
+**Other Tools:** Keil µVision · Proteus · MATLAB
+
+---
+
+## 🔧 What I Build
+
+| Area | Focus |
+|---|---|
+| **Embedded Systems** | STM32 firmware, Embedded C, peripheral interfacing, RTOS concepts |
+| **Sensors & IoT** | Sensor interfacing, data acquisition, monitoring, MQTT and connected systems |
+| **Robotics & UAVs** | Motor control, sensor integration, Pixhawk, autonomous systems |
+| **Edge AI** | Raspberry Pi, computer vision, YOLO, TinyML and on-device inference |
+| **VLSI / FPGA** | Verilog, RTL, digital design and FPGA development |
+
+---
+
+## 💼 Experience
+
+**Summer Research Intern — IIT Jodhpur**  
+UAV-based computer vision, YOLO object detection, dataset preparation, model training and Raspberry Pi edge deployment.
+
+**Embedded Systems Intern — Autonomous Robotics**  
+Embedded and robotics development involving hardware interfacing, sensors, motor control and software integration.
+
+**IoT & Embedded Systems Intern — CETPA InfoTech**  
+Practical IoT and embedded-system development with hardware interfacing and system-level experimentation.
+
+---
+
+## 🎓 Education
 
 **B.Tech. — Electronics Engineering**  
 Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti · AKTU  
@@ -47,27 +84,16 @@ Government Polytechnic Saharanpur
 
 ---
 
-## Experience
-
-**Summer Research Intern — IIT Jodhpur**  
-Worked on UAV-based computer vision, YOLO object detection, dataset preparation, model training, and Raspberry Pi edge deployment.
-
-**Embedded Systems Intern — Autonomous Robotics**  
-Worked on embedded and robotics systems involving hardware interfacing, sensors, motor control, and software integration.
-
-**IoT & Embedded Systems Intern — CETPA InfoTech**  
-Worked on practical IoT and embedded-system development and hardware interfacing.
-
----
-
-## Selected Highlights
+## 🏆 Highlights
 
 - 🥇 **1st Rank** — College-Level Internal Hackathon
 - 🏆 **Team Lead** — Smart India Hackathon 2025
 - 🥇 **Gold Medal** — Academic Excellence, Diploma
 - 🥈 **Silver Medal** — Radar-Based Object Detection System
 
-## Certifications
+---
+
+## 📜 Certifications
 
 - Digital System Design — NPTEL, IIT Ropar
 - Micro Sensors & Nano Sensors — NPTEL, IIT Guwahati
@@ -78,16 +104,20 @@ Worked on practical IoT and embedded-system development and hardware interfacing
 
 ---
 
-## Current Focus
+## 🚀 Current Focus
 
-Currently building and documenting projects around **STM32 firmware, sensor and industrial IoT systems, robotics, TinyML/Edge AI, UAV computer vision, and VLSI/digital design**.
+Currently working on **STM32 firmware, sensor and industrial IoT systems, robotics, TinyML/Edge AI, UAV computer vision, and VLSI/digital design**.
 
-The focus is simple: **build it, test it, measure it, and document it.**
+> **Build it. Test it. Measure it. Document it.**
 
 ---
 
-## Connect
+## 🤝 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/amanshukla87](https://www.linkedin.com/in/amanshukla87/)
-- **GitHub:** [github.com/amanshukla87](https://github.com/amanshukla87)
-- **Email:** `amanshuklaab106@gmail.com`
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanshukla87/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amanshukla87)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanshuklaab106@gmail.com)
+
+</div>
