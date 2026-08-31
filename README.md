@@ -45,20 +45,10 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.raspberrypi.com/"><img src="https://cdn.simpleicons.org/raspberrypi" width="40" title="Raspberry Pi" alt="Raspberry Pi"></a>
 <a href="https://www.linux.org/"><img src="https://cdn.simpleicons.org/linux" width="40" title="Linux" alt="Linux"></a>
 
-### UAV & Robotics
-
-### Communication Protocols & Interfaces
-
-### AI, Computer Vision & Edge AI
-
 <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="40" title="OpenCV" alt="OpenCV"></a>
 <a href="https://www.tensorflow.org/"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow" alt="TensorFlow"></a>
 <a href="https://www.tensorflow.org/lite"><img src="https://cdn.simpleicons.org/tensorflow" width="40" title="TensorFlow Lite" alt="TensorFlow Lite"></a>
 <a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics" alt="Ultralytics"></a>
-
-### Digital Design, VLSI & FPGA
-
-### Development & Engineering Tools
 
 <a href="https://git-scm.com/"><img src="https://img.icons8.com/color/48/git.png" width="40" title="Git" alt="Git"></a>
 <a href="https://github.com/amanshukla87"><img src="https://img.icons8.com/fluency/48/github.png" width="40" title="GitHub" alt="GitHub"></a>
