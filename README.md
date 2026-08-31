@@ -1,38 +1,45 @@
 # Aman Shukla
 
-**Electronics & Communication Engineering Student · Embedded Systems · Firmware · IoT · Edge AI · VLSI · Robotics**
+**Electronics Engineering Student (ECE'27) · Embedded Systems · Firmware · IoT · Robotics · VLSI/FPGA**
 
-I work on practical electronics and embedded systems, combining **hardware, firmware, sensors, and software**. My main interests are embedded firmware, IoT, sensor systems, Edge AI, TinyML, UAVs, robotics, and digital/VLSI design.
+I build practical electronics and embedded systems by combining **hardware, firmware, sensors, and software**. My work and interests include embedded development, sensor-based systems, IoT, robotics, UAVs, Edge AI, and digital design.
 
-I like building things that can be tested on real hardware and measured properly, not just simulated.
+I prefer projects that are built on real hardware, tested with actual data, and documented clearly.
 
 ---
 
-## Areas I Work In
+## What I Work On
 
-- **Embedded Systems:** STM32, Arduino, ESP32, ESP8266, AVR, Embedded C
-- **IoT & Sensors:** Sensor interfacing, data acquisition, monitoring, communication
-- **Edge AI & Computer Vision:** TinyML, YOLO, OpenCV, Deep Learning, Raspberry Pi
-- **Robotics & UAVs:** Pixhawk, sensor integration, UAV vision, robotics systems
-- **VLSI & Digital Design:** Verilog, RTL, Vivado, Quartus, ModelSim
-- **Development:** C, C++, Python, MATLAB, Git, Linux, Keil, Proteus
+- 🔧 **Embedded Systems & Firmware** — STM32, Arduino, ESP32, AVR, Embedded C
+- 📡 **Sensors & IoT** — sensor interfacing, data acquisition, monitoring, communication
+- 🤖 **Robotics & UAVs** — motor control, sensor integration, Pixhawk, UAV systems
+- 🧠 **Edge AI & Computer Vision** — Raspberry Pi, OpenCV, YOLO, TinyML
+- 💻 **VLSI & FPGA** — Verilog, RTL, Vivado, Quartus, ModelSim
 
-## Technical Skills
+## Technical Stack
 
-**Languages:** C · C++ · Embedded C · Python · MATLAB · Verilog  
-**Boards:** STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi  
-**AI / Vision:** YOLO · OpenCV · Deep Learning · TinyML · Edge AI  
-**Interfaces:** UART · I²C · SPI · CAN · GPIO · PWM  
-**Tools:** Keil µVision · Proteus · Vivado · Quartus · ModelSim · Git · Linux  
-**UAV / Robotics:** Pixhawk · UAV systems · Sensor integration
+**Programming**  
+C · C++ · Embedded C · Python · MATLAB · Verilog
+
+**Embedded & Hardware**  
+STM32 · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Pixhawk
+
+**Interfaces & Protocols**  
+UART · I²C · SPI · CAN · GPIO · PWM · MQTT
+
+**AI & Vision**  
+OpenCV · YOLO · Deep Learning · TinyML · Edge AI
+
+**Tools & Development**  
+Keil µVision · Proteus · Vivado · Quartus · ModelSim · Git · Linux
 
 ---
 
 ## Education
 
-**B.Tech. — Electronics & Communication Engineering**  
+**B.Tech. — Electronics Engineering**  
 Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti · AKTU  
-2024–2027 · Sensors & Transducers Technology
+2024–2027 · Honors: Sensors & Transducers Technology
 
 **Diploma — Electronics Engineering**  
 Government Polytechnic Saharanpur  
@@ -43,29 +50,29 @@ Government Polytechnic Saharanpur
 ## Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-Worked on UAV-based computer vision, YOLO object detection, dataset preparation, model training, and Raspberry Pi deployment.
+Worked on UAV-based computer vision, YOLO object detection, dataset preparation, model training, and Raspberry Pi edge deployment.
 
 **Embedded Systems Intern — Autonomous Robotics**  
-Worked on embedded and robotics systems with practical hardware and software integration.
+Worked on embedded and robotics systems involving hardware interfacing, sensors, motor control, and software integration.
 
 **IoT & Embedded Systems Intern — CETPA InfoTech**  
-Worked with IoT and embedded-system concepts through practical development work.
+Worked on practical IoT and embedded-system development and hardware interfacing.
 
 ---
 
-## Achievements
+## Selected Highlights
 
-- **1st Rank** — College-Level Internal Hackathon
-- **Team Lead** — Smart India Hackathon 2025
-- **Gold Medal** — Academic Excellence, Diploma
-- **Silver Medal** — Radar-Based Object Detection System
+- 🥇 **1st Rank** — College-Level Internal Hackathon
+- 🏆 **Team Lead** — Smart India Hackathon 2025
+- 🥇 **Gold Medal** — Academic Excellence, Diploma
+- 🥈 **Silver Medal** — Radar-Based Object Detection System
 
 ## Certifications
 
 - Digital System Design — NPTEL, IIT Ropar
 - Micro Sensors & Nano Sensors — NPTEL, IIT Guwahati
 - Introduction to IoT — NPTEL, IIT Kharagpur
-- Deep Learning Course: Deep Dive into Deep Learning — Scaler
+- Deep Dive into Deep Learning — Scaler
 - VLSI Design & Verilog Programming — Udemy
 - VLSI Design with AI: Basics to Advanced — IIT Madras Pravartak
 
@@ -73,9 +80,9 @@ Worked with IoT and embedded-system concepts through practical development work.
 
 ## Current Focus
 
-I am currently working on **STM32-based embedded systems, sensor and industrial IoT applications, TinyML/Edge AI, UAV computer vision, robotics, and VLSI/digital design**.
+Currently building and documenting projects around **STM32 firmware, sensor and industrial IoT systems, robotics, TinyML/Edge AI, UAV computer vision, and VLSI/digital design**.
 
-My goal is to build projects that are implemented on real hardware, tested with actual data, and documented clearly.
+The focus is simple: **build it, test it, measure it, and document it.**
 
 ---
 
