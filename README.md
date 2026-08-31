@@ -6,8 +6,17 @@
 
 **Embedded Systems • IoT • Sensors & Transducers • Robotics & UAVs • VLSI/FPGA • Edge AI**
 
+<a href="https://komarev.com/ghpvc/?username=amanshukla87&label=Profile%20Views&color=0e75b6&style=flat">
+  <img src="https://komarev.com/ghpvc/?username=amanshukla87&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</a>
+
+<br><br>
+
 <a href="https://www.linkedin.com/in/amanshukla87/">
   <img src="https://img.shields.io/badge/LinkedIn-Aman%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:amanshuklaab106@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 <a href="https://github.com/amanshukla87">
   <img src="https://img.shields.io/badge/GitHub-amanshukla87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -19,11 +28,11 @@
 
 ## 👋 About Me
 
-I am an Electronics Engineering student focused on **embedded systems, firmware, sensor-based systems, IoT, robotics, UAVs, and edge computing**.
+I am an Electronics Engineering student focused on **embedded systems, firmware, sensors, IoT, robotics, UAVs, and edge AI**.
 
-I prefer working on complete systems — from **hardware interfacing and embedded firmware to testing, data collection, deployment, and documentation**. My projects are centered on practical implementation using real hardware rather than only simulation.
+I enjoy building systems where **hardware, firmware and software work together** — from sensor interfacing and embedded control to testing, data collection and deployment on real hardware.
 
-I am currently building deeper hands-on experience with **STM32, Embedded C, communication protocols, industrial IoT, TinyML/Edge AI, UAV systems, and digital design**.
+My current focus is on **STM32 and Embedded C, communication protocols, industrial IoT, TinyML/Edge AI, UAV systems and digital design**.
 
 ---
 
@@ -33,8 +42,9 @@ I am currently building deeper hands-on experience with **STM32, Embedded C, com
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,verilog" height="52" alt="C, C++, Python, MATLAB, Verilog" />
-  <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=for-the-badge&logo=c&logoColor=white" height="34" alt="Embedded C" />
 </p>
+
+**Programming:** C · C++ · Embedded C · Python · MATLAB · Verilog
 
 ### ⚙️ Embedded Systems & Hardware
 
@@ -42,35 +52,37 @@ I am currently building deeper hands-on experience with **STM32, Embedded C, com
   <img src="https://skillicons.dev/icons?i=stm32,arduino,esp32,raspberrypi,linux" height="52" alt="STM32, Arduino, ESP32, Raspberry Pi, Linux" />
   <img src="https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" height="34" alt="ESP8266" />
   <img src="https://img.shields.io/badge/AVR-00979D?style=for-the-badge&logo=atmel&logoColor=white" height="34" alt="AVR" />
-  <img src="https://img.shields.io/badge/Pixhawk-2D2D2D?style=for-the-badge&logoColor=white" height="34" alt="Pixhawk" />
-  <img src="https://img.shields.io/badge/Mission%20Planner-2D2D2D?style=for-the-badge&logoColor=white" height="34" alt="Mission Planner" />
+  <img src="https://img.shields.io/badge/Pixhawk-2D2D2D?style=for-the-badge" height="34" alt="Pixhawk" />
+  <img src="https://img.shields.io/badge/Mission%20Planner-2D2D2D?style=for-the-badge" height="34" alt="Mission Planner" />
 </p>
 
-**Primary focus:** STM32 firmware, ARM Cortex-M, sensor interfacing, GPIO, PWM, ADC, timers, motor control, Raspberry Pi and UAV flight-controller integration.
+**Embedded:** STM32 · ARM Cortex-M · Arduino · ESP32 · ESP8266 · AVR · Raspberry Pi · Pixhawk
 
 ### 📡 Communication Protocols & Interfaces
 
 <p>
-  <img src="https://img.shields.io/badge/UART-263238?style=for-the-badge" height="34" alt="UART" />
+  <img src="https://img.shields.io/badge/UART-455A64?style=for-the-badge" height="34" alt="UART" />
   <img src="https://img.shields.io/badge/I²C-1565C0?style=for-the-badge" height="34" alt="I2C" />
   <img src="https://img.shields.io/badge/SPI-6A1B9A?style=for-the-badge" height="34" alt="SPI" />
   <img src="https://img.shields.io/badge/CAN-00897B?style=for-the-badge" height="34" alt="CAN" />
   <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="34" alt="MQTT" />
-  <img src="https://img.shields.io/badge/GPIO-455A64?style=for-the-badge" height="34" alt="GPIO" />
+  <img src="https://img.shields.io/badge/GPIO-37474F?style=for-the-badge" height="34" alt="GPIO" />
   <img src="https://img.shields.io/badge/PWM-EF6C00?style=for-the-badge" height="34" alt="PWM" />
 </p>
 
-### 🤖 AI, Computer Vision & Edge Computing
+**Protocols & Interfaces:** UART · I²C · SPI · CAN · MQTT · GPIO · PWM
+
+### 🤖 AI, Computer Vision & Edge AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow" height="52" alt="OpenCV, PyTorch, TensorFlow" />
-  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge&logoColor=white" height="34" alt="YOLO" />
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" height="52" alt="OpenCV, TensorFlow, PyTorch" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=for-the-badge" height="34" alt="YOLO" />
   <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" height="34" alt="Deep Learning" />
   <img src="https://img.shields.io/badge/TinyML-00695C?style=for-the-badge" height="34" alt="TinyML" />
   <img src="https://img.shields.io/badge/Edge%20AI-4527A0?style=for-the-badge" height="34" alt="Edge AI" />
 </p>
 
-**Primary focus:** OpenCV, YOLO-based object detection, computer vision, model training, Raspberry Pi inference, TinyML concepts and on-device AI.
+**AI & Vision:** OpenCV · YOLO · TensorFlow · PyTorch · Deep Learning · TinyML · Edge AI
 
 ### 🧠 Digital Design, VLSI & FPGA
 
@@ -82,42 +94,30 @@ I am currently building deeper hands-on experience with **STM32, Embedded C, com
   <img src="https://img.shields.io/badge/ModelSim-0066A1?style=for-the-badge" height="34" alt="ModelSim" />
 </p>
 
+**Digital Design:** Verilog · RTL · Vivado · Quartus · ModelSim
+
 ### 🛠️ Development & Engineering Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" height="52" alt="Git, GitHub, VS Code, Linux" />
   <img src="https://img.shields.io/badge/Keil%20µVision-3949AB?style=for-the-badge" height="34" alt="Keil µVision" />
   <img src="https://img.shields.io/badge/Proteus-1565C0?style=for-the-badge" height="34" alt="Proteus" />
-  <img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" height="34" alt="MATLAB" />
 </p>
 
----
-
-## 🔧 Areas of Work
-
-| Area | Focus |
-|---|---|
-| **Embedded Systems & Firmware** | STM32, Embedded C, peripheral interfacing, timers, GPIO, PWM and RTOS concepts |
-| **Sensors & Industrial IoT** | Sensor interfacing, data acquisition, monitoring, MQTT and connected systems |
-| **Robotics & UAVs** | Motor control, sensor integration, Pixhawk, Mission Planner and UAV systems |
-| **Computer Vision & Edge AI** | OpenCV, YOLO, Raspberry Pi, model deployment and on-device inference |
-| **VLSI & FPGA** | Verilog, RTL, digital design, simulation and FPGA development |
+**Tools:** Keil µVision · Proteus · MATLAB · Git · GitHub · VS Code · Linux
 
 ---
 
 ## 💼 Experience
 
-### Summer Research Intern — IIT Jodhpur
+**Summer Research Intern — IIT Jodhpur**  
+UAV-based computer vision, YOLO object detection, dataset preparation, model training, Raspberry Pi deployment and real-world UAV testing.
 
-Worked on a UAV-based computer vision system involving **dataset preparation, YOLO object detection, model training, Raspberry Pi deployment and real-world UAV testing**.
+**Embedded Systems Intern — Autonomous Robotics**  
+Embedded and robotics development involving sensors, motor control, hardware interfacing and system integration.
 
-### Embedded Systems Intern — Autonomous Robotics
-
-Worked on **embedded and robotics systems**, including hardware interfacing, sensors, motor control and software integration.
-
-### IoT & Embedded Systems Intern — CETPA InfoTech
-
-Worked with **IoT and embedded systems** through practical hardware interfacing, sensor-based development and system-level experimentation.
+**IoT & Embedded Systems Intern — CETPA InfoTech**  
+Practical work with IoT, embedded systems, sensors and hardware interfacing.
 
 ---
 
@@ -155,32 +155,38 @@ Government Polytechnic Saharanpur
 
 ## 🚀 Current Focus
 
-I am currently developing projects around **STM32-based firmware, sensor and industrial IoT systems, robotics, UAV computer vision, TinyML/Edge AI, and VLSI/digital design**.
+**STM32 Firmware • Sensor Systems • Industrial IoT • Robotics & UAVs • Computer Vision • TinyML/Edge AI • VLSI & FPGA**
 
-My goal is to build systems that are **implemented on real hardware, tested with real data, measured properly, and documented clearly**.
-
-> **Build it. Test it. Measure it. Document it.**
+I am building and documenting projects that are **implemented on real hardware, tested with real data, and explained clearly**.
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/amanshukla87/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn" />
+  <img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn" />
 </a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/amanshukla87">
-<img src="https://img.icons8.com/color/96/github.png" width="55" alt="GitHub" />
-</a>
-&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="mailto:amanshuklaab106@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Email" />
+  <img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Email" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/amanshukla87">
+  <img src="https://img.icons8.com/color/96/github.png" width="55" alt="GitHub" />
 </a>
 
 </div>
 
 <p align="center">
-<strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>GitHub</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Email</strong>
+<strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>GitHub</strong>
 </p>
+
+---
+
+<div align="center">
+
+**Build • Test • Measure • Document**
+
+</div>
