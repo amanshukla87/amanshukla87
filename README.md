@@ -47,11 +47,7 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 
 ### UAV & Robotics
 
-**Pixhawk · Mission Planner · GPS · ESC · Brushless Motors · UAV Integration · Sensor Integration**
-
 ### Communication Protocols & Interfaces
-
-**UART · I²C · SPI · CAN · MQTT · GPIO · PWM · ADC**
 
 ### AI, Computer Vision & Edge AI
 
@@ -61,8 +57,6 @@ My current focus is on **STM32 and Embedded C, sensor-based systems, communicati
 <a href="https://www.ultralytics.com/"><img src="https://cdn.simpleicons.org/ultralytics" width="40" title="Ultralytics" alt="Ultralytics"></a>
 
 ### Digital Design, VLSI & FPGA
-
-**Verilog · RTL · Xilinx Vivado · Intel Quartus · ModelSim**
 
 ### Development & Engineering Tools
 
