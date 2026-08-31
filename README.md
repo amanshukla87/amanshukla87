@@ -1,115 +1,93 @@
-<div align="center">
+<h1 align="center">Aman Shukla</h1>
 
-# Aman Shukla
+<p align="center">
+  <b>Electronics Engineering Student (ECE'27)</b><br>
+  Embedded Systems · Firmware · Sensors & Transducers · IoT · Robotics · UAVs · Edge AI · VLSI/FPGA
+</p>
 
-### Electronics Engineering Student (ECE'27) | Embedded Systems | Firmware | IoT | Robotics | Edge AI
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanshukla87&color=0e75b6" alt="Profile Views" />
+</p>
 
-**Embedded Systems • Sensors & Transducers • UAVs • Digital Design • FPGA**
-
-<img src="https://komarev.com/ghpvc/?username=amanshukla87&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<br><br>
-
-<a href="https://www.linkedin.com/in/amanshukla87/">
-<img src="https://img.shields.io/badge/LinkedIn-Aman%20Shukla-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:amanshuklaab106@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://github.com/amanshukla87">
-<img src="https://img.shields.io/badge/GitHub-amanshukla87-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/amanshukla87/">LinkedIn</a> ·
+  <a href="https://github.com/amanshukla87">GitHub</a> ·
+  <a href="mailto:amanshuklaab106@gmail.com">Email</a>
+</p>
 
 ---
 
 ## 👋 About Me
 
-I’m an Electronics Engineering student focused on **embedded systems, firmware, sensors, IoT, robotics, UAVs and Edge AI**.
+I am an Electronics Engineering student focused on **embedded systems, firmware, sensors, IoT, robotics, UAVs, Edge AI and digital design**.
 
-I enjoy building systems where **hardware, firmware and software work together** — from sensor interfacing and embedded control to data collection, testing and deployment on real hardware.
+I enjoy building practical systems where **hardware, embedded software and intelligent processing work together** — from sensor interfacing and communication to control, testing and deployment on real hardware.
 
-My current focus is on **STM32 and Embedded C, communication protocols, industrial IoT, TinyML/Edge AI, UAV systems and digital design**.
+My current focus is on **STM32 and Embedded C, industrial sensor systems, communication protocols, TinyML/Edge AI, UAV systems and FPGA/digital design**.
 
 ---
 
-## 🧰 Languages & Technologies I Work With
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px"> Languages and Technologies I Work With
 
-![animation](https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif)
+### Programming
 
-### 💻 Programming
+<code><img width="40px" src="https://img.icons8.com/color/3x/c-programming.png" title="C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/4x/000000/python.png" title="Python"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=matlab" title="MATLAB"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=verilog" title="Verilog"/></code>
 
-<p>
-<a href="https://www.cprogramming.com/"><img src="https://skillicons.dev/icons?i=c" height="45" alt="C" /></a>
-<a href="https://isocpp.org/"><img src="https://skillicons.dev/icons?i=cpp" height="45" alt="C++" /></a>
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" height="45" alt="Python" /></a>
-<a href="https://www.mathworks.com/products/matlab.html"><img src="https://skillicons.dev/icons?i=matlab" height="45" alt="MATLAB" /></a>
-<a href="https://www.verilog.com/"><img src="https://skillicons.dev/icons?i=verilog" height="45" alt="Verilog" /></a>
-</p>
+### Embedded Systems & Hardware
 
-**C · C++ · Embedded C · Python · MATLAB · Verilog**
+<code><img width="40px" src="https://skillicons.dev/icons?i=stm32" title="STM32"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=arduino" title="Arduino"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=esp32" title="ESP32"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=linux" title="Linux"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/arm.png" title="ARM"/></code>
 
-### ⚙️ Embedded Systems & Hardware
+### UAV & Robotics
 
-<p>
-<a href="https://www.st.com/"><img src="https://skillicons.dev/icons?i=stm32" height="45" alt="STM32" /></a>
-<a href="https://www.arduino.cc/"><img src="https://skillicons.dev/icons?i=arduino" height="45" alt="Arduino" /></a>
-<a href="https://www.espressif.com/"><img src="https://skillicons.dev/icons?i=esp32" height="45" alt="ESP32" /></a>
-<a href="https://www.raspberrypi.com/"><img src="https://skillicons.dev/icons?i=raspberrypi" height="45" alt="Raspberry Pi" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" /></a>
-</p>
+<code><img width="40px" src="https://img.icons8.com/color/48/drone.png" title="UAV / Drone Systems"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/mission-planner.png" title="Mission Planner"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=raspberrypi" title="Raspberry Pi"/></code>
 
-**STM32 · ARM Cortex-M · Arduino · ESP32 · ESP8266 · AVR/ATmega · Raspberry Pi · Pixhawk**
+**Pixhawk · Mission Planner · GPS · ESC · Brushless Motors · UAV Integration · Sensor Integration**
 
-**Embedded C · GPIO · PWM · ADC · Sensor Interfacing · Motor Control · Embedded Linux**
+### Communication Protocols & Interfaces
 
-**UAV:** Pixhawk · Mission Planner · GPS · ESC · Brushless Motors · UAV Integration
+<code><img width="40px" src="https://img.icons8.com/fluency/48/serial-port.png" title="UART / Serial"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/i2c.png" title="I²C"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/spi.png" title="SPI"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/can-bus.png" title="CAN"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/mqtt.png" title="MQTT"/></code>
 
-### 📡 Communication Protocols & Interfaces
+**UART · I²C · SPI · CAN · MQTT · GPIO · PWM · ADC**
 
-<p>
-<img src="https://img.shields.io/badge/UART-455A64?style=for-the-badge" height="34" alt="UART" />
-<img src="https://img.shields.io/badge/I²C-1565C0?style=for-the-badge" height="34" alt="I2C" />
-<img src="https://img.shields.io/badge/SPI-6A1B9A?style=for-the-badge" height="34" alt="SPI" />
-<img src="https://img.shields.io/badge/CAN-00897B?style=for-the-badge" height="34" alt="CAN" />
-<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="34" alt="MQTT" />
-</p>
+### AI, Computer Vision & Edge AI
 
-**UART · I²C · SPI · CAN · MQTT · GPIO · PWM**
-
-### 🤖 AI, Computer Vision & Edge AI
-
-![animation](https://media.giphy.com/media/Ml6M5r1L7M7b2/giphy.gif)
-
-<p>
-<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" height="45" alt="OpenCV" /></a>
-<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="TensorFlow" /></a>
-<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" height="45" alt="PyTorch" /></a>
-</p>
+<code><img width="40px" src="https://skillicons.dev/icons?i=opencv" title="OpenCV"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=pytorch" title="PyTorch"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/artificial-intelligence.png" title="AI / Deep Learning"/></code>
 
 **OpenCV · YOLO · Deep Learning · TinyML · Edge AI · Computer Vision**
 
-### 🔬 Digital Design, VLSI & FPGA
+### Digital Design, VLSI & FPGA
 
-<p>
-<img src="https://img.shields.io/badge/Verilog-607D8B?style=for-the-badge" height="34" alt="Verilog" />
-<img src="https://img.shields.io/badge/RTL-37474F?style=for-the-badge" height="34" alt="RTL" />
-<img src="https://img.shields.io/badge/Xilinx%20Vivado-ED1C24?style=for-the-badge&logo=xilinx&logoColor=white" height="34" alt="Xilinx Vivado" />
-<img src="https://img.shields.io/badge/Intel%20Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white" height="34" alt="Intel Quartus" />
-<img src="https://img.shields.io/badge/ModelSim-0066A1?style=for-the-badge" height="34" alt="ModelSim" />
-</p>
+<code><img width="40px" src="https://skillicons.dev/icons?i=verilog" title="Verilog"/></code>
+<code><img width="40px" src="https://img.shields.io/badge/RTL-37474F?style=flat-square" title="RTL"/></code>
+<code><img width="40px" src="https://img.shields.io/badge/Vivado-ED1C24?style=flat-square&logo=xilinx&logoColor=white" title="Xilinx Vivado"/></code>
+<code><img width="40px" src="https://img.shields.io/badge/Quartus-0071C5?style=flat-square&logo=intel&logoColor=white" title="Intel Quartus"/></code>
+<code><img width="40px" src="https://img.shields.io/badge/ModelSim-0066A1?style=flat-square" title="ModelSim"/></code>
 
-**Verilog · RTL · Vivado · Quartus · ModelSim · FPGA Development**
+### Development & Engineering Tools
 
-### 🛠️ Development & Engineering Tools
-
-<p>
-<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" /></a>
-<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" /></a>
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" /></a>
-<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" height="45" alt="Linux" /></a>
-</p>
+<code><img width="40px" src="https://img.icons8.com/color/48/keil.png" title="Keil µVision"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=git" title="Git"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=github" title="GitHub"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=vscode" title="VS Code"/></code>
+<code><img width="40px" src="https://skillicons.dev/icons?i=linux" title="Linux"/></code>
 
 **Keil µVision · Proteus · MATLAB · Git · GitHub · VS Code · Linux**
 
@@ -118,13 +96,13 @@ My current focus is on **STM32 and Embedded C, communication protocols, industri
 ## 💼 Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-UAV-based computer vision, YOLO object detection, dataset preparation, model training, Raspberry Pi deployment and real-world UAV testing.
+Worked on UAV-based computer vision, YOLO object detection, VisDrone dataset preparation, model training, Raspberry Pi edge deployment and real-world UAV testing.
 
 **Embedded Systems Intern — Autonomous Robotics**  
-Embedded and robotics development involving sensors, motor control, hardware interfacing and system integration.
+Worked on embedded robotics systems involving sensors, motor control, hardware interfacing, Embedded C and system integration.
 
 **IoT & Embedded Systems Intern — CETPA InfoTech**  
-Practical work with IoT, embedded systems, sensors and hardware interfacing.
+Worked with IoT and embedded systems through practical sensor, microcontroller and hardware-interfacing exercises.
 
 ---
 
@@ -132,11 +110,11 @@ Practical work with IoT, embedded systems, sensors and hardware interfacing.
 
 **B.Tech. — Electronics Engineering**  
 Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti · AKTU  
-**2024–2027** · Honors: Sensors & Transducers Technology
+2024–2027 · Honors: Sensors & Transducers Technology
 
 **Diploma — Electronics Engineering**  
 Government Polytechnic Saharanpur  
-**2019–2022** · First Division with Honours
+2019–2022 · First Division with Honours
 
 ---
 
@@ -160,42 +138,23 @@ Government Polytechnic Saharanpur
 
 ---
 
-## 🚀 Current Focus
+## <img src="https://media.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif" width="50px"> My Engineering Profiles!
 
-**STM32 Firmware • Sensor Systems • Industrial IoT • Robotics & UAVs • Computer Vision • TinyML/Edge AI • VLSI & FPGA**
-
-I am building and documenting projects that are **implemented on real hardware, tested with real data, and explained clearly**.
+<code><a href="https://github.com/amanshukla87"><img width="40px" src="https://img.icons8.com/fluent/96/github.png" title="GitHub"/></a></code>
+<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="40px" src="https://img.icons8.com/color/96/linkedin.png" title="LinkedIn"/></a></code>
 
 ---
 
-![animation](https://media.giphy.com/media/b2f1526bec026401760ef3dfeb32bfea411325672a66aa36f506a73d0295ce35/giphy.gif)
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="50px"> Lets Connect!
 
-## 🤝 Let's Connect!
+<code><a href="https://www.linkedin.com/in/amanshukla87/"><img width="45px" src="https://img.icons8.com/color/8x/000000/linkedin.png" title="LinkedIn"/></a></code>
+<code><a href="mailto:amanshuklaab106@gmail.com"><img width="43px" src="https://img.icons8.com/fluent/48/000000/gmail.png" title="Gmail"/></a></code>
+<code><a href="https://github.com/amanshukla87"><img width="45px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></a></code>
 
-<div align="center">
+<br>
 
-<a href="https://www.linkedin.com/in/amanshukla87/">
-<img src="https://img.icons8.com/color/96/linkedin.png" width="55" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="mailto:amanshuklaab106@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="55" alt="Email" />
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/amanshukla87">
-<img src="https://img.icons8.com/color/96/github.png" width="55" alt="GitHub" />
-</a>
-
-</div>
+---
 
 <p align="center">
-<strong>LinkedIn</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>Email</strong> &nbsp;&nbsp;&nbsp;&nbsp; <strong>GitHub</strong>
+  <b>Build · Test · Measure · Document</b>
 </p>
-
----
-
-<div align="center">
-
-**Build • Test • Measure • Document**
-
-</div>
