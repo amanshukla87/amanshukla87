@@ -13,6 +13,10 @@
   <a href="mailto:amanshuklaab106@gmail.com">Email</a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amanshukla87&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
+</p>
+
 ---
 
 ## About Me
