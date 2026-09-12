@@ -30,7 +30,7 @@ I am building these fundamentals through hands-on projects, with a focus on writ
 ## Technical Skills
 
 **Programming**  
-<img src="https://img.icons8.com/color/48/c-programming.png" width="36" title="C" alt="C"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="36" title="C++" alt="C++"> <img src="https://img.icons8.com/color/48/python.png" width="36" title="Python" alt="Python"> <img src="https://cdn.simpleicons.org/matlab" width="36" title="MATLAB" alt="MATLAB">
+<img src="https://img.icons8.com/color/48/c-programming.png" width="36" title="C" alt="C"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="36" title="C++" alt="C++"> <img src="https://img.icons8.com/color/48/python.png" width="36" title="Python" alt="Python"> <img src="https://skillicons.dev/icons?i=matlab" width="36" title="MATLAB" alt="MATLAB">
 
 **Embedded & Hardware**  
 <img src="https://cdn.simpleicons.org/stmicroelectronics" width="36" title="STM32" alt="STM32"> <img src="https://cdn.simpleicons.org/arduino" width="36" title="Arduino" alt="Arduino"> <img src="https://cdn.simpleicons.org/espressif" width="36" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"> <img src="https://cdn.simpleicons.org/raspberrypi" width="36" title="Raspberry Pi" alt="Raspberry Pi">
