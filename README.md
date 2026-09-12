@@ -36,7 +36,7 @@ I am building these fundamentals through hands-on projects, with a focus on writ
 <img src="https://cdn.simpleicons.org/stmicroelectronics" width="36" title="STM32" alt="STM32"> <img src="https://cdn.simpleicons.org/arduino" width="36" title="Arduino" alt="Arduino"> <img src="https://cdn.simpleicons.org/espressif" width="36" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"> <img src="https://cdn.simpleicons.org/raspberrypi" width="36" title="Raspberry Pi" alt="Raspberry Pi">
 
 **Tools & Development**  
-<img src="https://cdn.simpleicons.org/arm" width="36" title="Arm / Keil" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.simpleicons.org/visualstudiocode" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux">
+<img src="https://cdn.simpleicons.org/arm" width="36" title="Arm" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux">
 
 ## What I Have Worked On
 
