@@ -1,11 +1,11 @@
 <h1 align="center">Aman Shukla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=760&lines=Embedded+Systems+%7C+Firmware+%7C+IoT;Embedded+C+%7C+STM32+%7C+Sensors;Robotics+%7C+UAVs+%7C+Computer+Vision;Edge+AI+%7C+TinyML+%7C+Digital+Design" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=760&lines=Embedded+Software+%7C+Firmware+%7C+Bare-Metal+C%2FC%2B%2B;STM32+%7C+Embedded+C+%7C+Microcontrollers;Embedded+Systems+%7C+Sensors+%7C+Hardware+Interface" alt="Typing introduction" />
 </p>
 
 <p align="center">
-  Electronics Engineering · Sensors & Transducers · Embedded Systems · Firmware · Robotics
+  Electronics Engineering · Embedded Systems · Firmware · Bare-Metal C/C++ · STM32
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ I am an Electronics Engineering student working toward a career in embedded syst
 
 Most of my work starts close to the hardware: writing C, interfacing sensors, working with microcontrollers, testing communication interfaces, and turning small ideas into working prototypes.
 
-I am currently strengthening my Embedded C and STM32 fundamentals while continuing to explore robotics, UAV systems and edge AI.
+I am currently strengthening my Embedded C and STM32 fundamentals while building practical experience with embedded software and hardware interfacing.
 
 ## Technical Skills
 
@@ -38,23 +38,16 @@ I am currently strengthening my Embedded C and STM32 fundamentals while continui
 **Tools & Development**  
 <img src="https://cdn.simpleicons.org/arm" width="36" title="Arm / Keil" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.simpleicons.org/visualstudiocode" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux">
 
-**Vision & Edge AI**  
-<img src="https://cdn.simpleicons.org/opencv" width="36" title="OpenCV" alt="OpenCV"> <img src="https://cdn.simpleicons.org/tensorflow" width="36" title="TensorFlow" alt="TensorFlow"> <img src="https://cdn.simpleicons.org/ultralytics" width="36" title="Ultralytics YOLO" alt="Ultralytics YOLO">
-
-**Digital Design**  
-<img src="https://cdn.simpleicons.org/amd" width="36" title="AMD Xilinx Vivado" alt="AMD Xilinx"> <img src="https://cdn.simpleicons.org/intel" width="36" title="Intel Quartus" alt="Intel"> <img src="https://cdn.simpleicons.org/siemens" width="36" title="Siemens ModelSim" alt="Siemens">
-
 ## What I Have Worked On
 
-- **UAV Object Detection** — YOLO-based object detection using VisDrone, Raspberry Pi and Pi Camera, with deployment and testing on edge hardware.
-- **Radar-Based Object Detection System** — Academic electronics project focused on sensing and object detection.
-- **ECG Heartbeat Monitoring System** — Sensor-based monitoring system for measuring and processing heartbeat signals.
+- **STM32 Embedded Development** — Register-level GPIO programming, hardware bring-up and Embedded C development on STM32.
+- **Embedded Sensor Systems** — Sensor interfacing, microcontroller-based data acquisition and hardware integration.
 - **C for Embedded Systems** — A hands-on C repository where I am building fundamentals step by step before moving deeper into Embedded C.
 
 ## Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-Worked on UAV-based computer vision, dataset preparation, YOLO object detection, Raspberry Pi deployment and UAV testing.
+Worked on embedded edge systems, Raspberry Pi deployment and hardware-based computer vision research.
 
 **Embedded Systems Intern — Autonomous Robotics**  
 Worked with embedded systems, sensors, motor control, Embedded C and robotics system integration.
