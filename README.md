@@ -21,11 +21,11 @@
 
 ## About Me
 
-I am an Electronics Engineering student working toward a career in embedded systems and firmware development.
+I am interested in the part of a system where software meets the hardware.
 
-Most of my work starts close to the hardware: writing C, interfacing sensors, working with microcontrollers, testing communication interfaces, and turning small ideas into working prototypes.
+My work focuses on Embedded C, STM32 microcontrollers, firmware development, sensor and peripheral interfacing, and understanding how embedded software behaves at the hardware level.
 
-I am currently strengthening my Embedded C and STM32 fundamentals while building practical experience with embedded software and hardware interfacing.
+I am building these fundamentals through hands-on projects, with a focus on writing clear, reliable code and understanding the systems behind it.
 
 ## Technical Skills
 
