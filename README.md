@@ -1,7 +1,7 @@
 <h1 align="center">Aman Shukla</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=760&lines=Embedded+Software+%7C+Firmware+%7C+Bare-Metal+C%2FC%2B%2B;STM32+%7C+Embedded+C+%7C+Microcontrollers;Embedded+Systems+%7C+Sensors+%7C+Hardware+Interface" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=760&lines=Embedded+Software+%7C+Firmware+%7C+Bare-Metal+C%2FC%2B%2B;STM32+%7C+Embedded+C+%7C+Microcontrollers;Embedded+Systems+%7C+Sensors+%7C+Hardware+Interface" alt="Embedded software and firmware focus" />
 </p>
 
 <p align="center">
@@ -21,11 +21,11 @@
 
 ## About Me
 
-I am interested in the part of a system where software meets the hardware.
+I am an Electronics Engineering student focused on embedded software and firmware development.
 
-My work focuses on Embedded C, STM32 microcontrollers, firmware development, sensor and peripheral interfacing, and understanding how embedded software behaves at the hardware level.
+My current work is centered on Embedded C, STM32 microcontrollers, bare-metal programming, sensor and peripheral interfacing, and understanding how software interacts with hardware at the register and peripheral level.
 
-I am building these fundamentals through hands-on projects, with a focus on writing clear, reliable code and understanding the systems behind it.
+I learn by building and testing real systems, with an emphasis on clear code, reliable hardware interaction, and strong embedded fundamentals.
 
 ## Technical Skills
 
@@ -35,22 +35,26 @@ I am building these fundamentals through hands-on projects, with a focus on writ
 **Embedded & Hardware**  
 <img src="https://cdn.simpleicons.org/stmicroelectronics" width="36" title="STM32" alt="STM32"> <img src="https://cdn.simpleicons.org/arduino" width="36" title="Arduino" alt="Arduino"> <img src="https://cdn.simpleicons.org/espressif" width="36" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"> <img src="https://cdn.simpleicons.org/raspberrypi" width="36" title="Raspberry Pi" alt="Raspberry Pi">
 
-**Tools & Development**  
-<img src="https://cdn.simpleicons.org/arm" width="36" title="Arm" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux"> <img src="https://cdn.simpleicons.org/ltspice/900028" width="36" title="LTspice" alt="LTspice">
+**Interfaces & Tools**  
+<img src="https://cdn.simpleicons.org/arm" width="36" title="Arm" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux"> <img src="https://cdn.simpleicons.org/analogdevices" width="36" title="LTspice / Analog Devices" alt="LTspice / Analog Devices">
 
-## What I Have Worked On
+**Embedded Concepts**  
+GPIO · ADC · UART · SPI · I2C · CAN · Sensor Interfacing · Data Acquisition · Register-Level Programming
+
+## Selected Work
 
 - **STM32 Embedded Development** — Register-level GPIO programming, hardware bring-up and Embedded C development on STM32.
 - **Embedded Sensor Systems** — Sensor interfacing, microcontroller-based data acquisition and hardware integration.
-- **C for Embedded Systems** — A hands-on C repository where I am building fundamentals step by step before moving deeper into Embedded C.
+- **C Programming** — A hands-on repository covering C fundamentals progressively, including pointers and memory-related concepts.
+- **Edge AI & Embedded Vision** — Research work involving Raspberry Pi deployment and computer vision at the edge.
 
 ## Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-Worked on embedded edge systems, Raspberry Pi deployment and hardware-based computer vision research.
+Worked on Raspberry Pi-based edge systems and hardware-oriented computer vision research.
 
 **Embedded Systems Intern — Autonomous Robotics**  
-Worked with embedded systems, sensors, motor control, Embedded C and robotics system integration.
+Worked with embedded systems, sensors, motor control, Embedded C and system integration.
 
 **IoT & Embedded Systems Intern — CETPA InfoTech**  
 Worked with IoT concepts, sensors, microcontrollers and hardware interfacing.
