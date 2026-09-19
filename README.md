@@ -13,10 +13,6 @@
   <a href="mailto:amanshuklaab106@gmail.com">Email</a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanshukla87&label=Profile+Views&color=blue&style=flat-square" alt="Profile views" />
-</p>
-
 ---
 
 ## About Me
@@ -30,22 +26,23 @@ I learn by building and testing real systems, with an emphasis on clear code, re
 ## Technical Skills
 
 **Programming**  
-<img src="https://img.icons8.com/color/48/c-programming.png" width="36" title="C" alt="C"> <img src="https://img.icons8.com/color/48/c-plus-plus-logo.png" width="36" title="C++" alt="C++"> <img src="https://img.icons8.com/color/48/python.png" width="36" title="Python" alt="Python"> <img src="https://skillicons.dev/icons?i=matlab" width="36" title="MATLAB" alt="MATLAB">
+C · C++ · Python · MATLAB
 
 **Embedded & Hardware**  
-<img src="https://cdn.simpleicons.org/stmicroelectronics" width="36" title="STM32" alt="STM32"> <img src="https://cdn.simpleicons.org/arduino" width="36" title="Arduino" alt="Arduino"> <img src="https://cdn.simpleicons.org/espressif" width="36" title="ESP32 / ESP8266" alt="ESP32 / ESP8266"> <img src="https://cdn.simpleicons.org/raspberrypi" width="36" title="Raspberry Pi" alt="Raspberry Pi">
+STM32 · Arduino · ESP32 / ESP8266 · Raspberry Pi
 
 **Interfaces & Tools**  
-<img src="https://cdn.simpleicons.org/arm" width="36" title="Arm" alt="Arm"> <img src="https://img.icons8.com/color/48/git.png" width="36" title="Git" alt="Git"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/visualstudiocode.svg" width="36" title="VS Code" alt="VS Code"> <img src="https://cdn.simpleicons.org/linux" width="36" title="Linux" alt="Linux"> <img src="https://cdn.simpleicons.org/analogdevices" width="36" title="LTspice / Analog Devices" alt="LTspice / Analog Devices">
+ARM · Git · VS Code · Linux · LTspice
 
 **Embedded Concepts**  
 GPIO · ADC · UART · SPI · I2C · CAN · Sensor Interfacing · Data Acquisition · Register-Level Programming
 
-## Selected Work
+## Selected Projects
 
-- **STM32 Embedded Development** — Register-level GPIO programming, hardware bring-up and Embedded C development on STM32.
-- **Embedded Sensor Systems** — Sensor interfacing, microcontroller-based data acquisition and hardware integration.
-- **C Programming** — A hands-on repository covering C fundamentals progressively, including pointers and memory-related concepts.
+- **[STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)** — STM32 NUCLEO-F446RE based multisensor monitoring project involving DS18B20, INA219, MPU6050, OLED, and planned CAN/RS485 and Edge AI work.
+- **[C Programming](https://github.com/amanshukla87/c-programming)** — Progressive C practice covering fundamentals, pointers, structures, file handling, dynamic memory, linked lists, and stacks.
+- **[Arduino Based Radar System for Object Detection](https://github.com/amanshukla87/Arduino-Based-Radar-System-for-Object-Detection)** — Arduino + HC-SR04 + servo radar with LCD, LED/buzzer alerts, and Processing visualization.
+- **[ECG Heartbeat Monitoring System](https://github.com/amanshukla87/ECG-Heartbeat-Monitoring-System)** — Arduino UNO + AD8232 educational ECG signal acquisition and lead-off monitoring prototype.
 - **Edge AI & Embedded Vision** — Research work involving Raspberry Pi deployment and computer vision at the edge.
 
 ## Experience
@@ -61,7 +58,7 @@ Worked with IoT concepts, sensors, microcontrollers and hardware interfacing.
 
 ## Education
 
-**B.Tech. Electronics Engineering** — AKTU  
+**B.Tech. Electronics Engineering — AKTU**  
 Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti · 2024–2027  
 Honors: Sensors & Transducers Technology
 
