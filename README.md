@@ -1,8 +1,8 @@
 <h1 align="center">Aman Shukla</h1>
 
 <p align="center">
-  <b>Electronics Engineering Student</b><br>
-  Embedded Systems · Firmware · STM32 · Embedded C/C++
+  <b>B.Tech. Electronics Engineering · Sensors & Transducers Technology</b><br>
+  Embedded Systems · Firmware · STM32 · C/C++
 </p>
 
 <p align="center">
@@ -14,29 +14,30 @@
 
 ## About
 
-I am a final-year Electronics Engineering student working primarily in embedded systems and firmware development.
+I am a final-year Electronics Engineering student with a primary interest in **embedded systems and firmware development**.
 
-My current work focuses on **Embedded C, STM32 microcontrollers, register-level programming, sensor interfacing, and embedded communication interfaces**. I am interested in understanding systems from the hardware interface through to the firmware running on the microcontroller.
+My current work is centered on **C/C++, STM32 microcontrollers, register-level programming, sensor interfacing, and embedded communication protocols**. I am particularly interested in the connection between hardware and firmware—bringing up peripherals, validating interfaces on physical hardware, and building reliable embedded systems.
 
-I prefer learning through implementation — building small systems, testing them on hardware, debugging them, and documenting what works.
+I learn by building and testing systems rather than only working from theory. My projects typically involve firmware development, hardware interfacing, measurement, debugging, and documentation.
 
 ## Technical Skills
 
 | Area | Technologies |
 |---|---|
-| Programming | C, C++, Python, MATLAB |
-| Microcontrollers | STM32, Arduino, ESP32 / ESP8266 |
-| Embedded Systems | GPIO, ADC, UART, SPI, I2C, sensor interfacing, data acquisition |
-| Hardware | Raspberry Pi, ARM Cortex-M, basic electronics and hardware debugging |
-| Tools | STM32CubeIDE, Git, GitHub, VS Code, Linux, LTspice |
+| Programming | C, C++, Embedded C, Python, MATLAB |
+| Microcontrollers | STM32, AVR/ATmega, ESP32/ESP8266, Arduino |
+| Embedded | GPIO, ADC, PWM, UART, SPI, I2C, CAN, RS485, MQTT, sensor interfacing |
+| Platforms | FreeRTOS, Embedded Linux, Raspberry Pi |
+| Edge AI | OpenCV, YOLO, PyTorch, TensorFlow, TinyML |
+| Tools | STM32CubeIDE, Keil, Git, GitHub, CMake/Make, Linux, LTspice, KiCad, Proteus |
 
 ## Selected Projects
 
 ### STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring
 
-**STM32 NUCLEO-F446RE · Embedded C · DS18B20 · INA219 · SSD1306 OLED**
+**STM32 NUCLEO-F446RE · Embedded C · DS18B20 · INA219 · SSD1306**
 
-Academic project focused on developing a multisensor embedded monitoring system. Current work covers hardware bring-up, sensor/peripheral interfacing, local monitoring, and firmware development, with motion sensing and lightweight Edge AI planned as subsequent stages.
+Academic project for developing a multisensor industrial monitoring platform. Current implementation focuses on STM32 firmware, hardware bring-up, temperature and power monitoring, OLED display, serial diagnostics, and peripheral interfacing. MPU6050 integration and the Edge AI stage are planned as subsequent development.
 
 [Repository](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)
 
@@ -44,38 +45,38 @@ Academic project focused on developing a multisensor embedded monitoring system.
 
 **Arduino UNO · HC-SR04 · SG90 Servo · I2C LCD · Processing**
 
-Built an ultrasonic scanning system that measures object distance at different servo angles and provides local LED/buzzer indication with a Processing-based radar visualization.
+Developed an ultrasonic scanning system that measures distance across a servo sweep and presents the detected range through a Processing-based radar interface. The hardware also provides local LED and buzzer indication.
 
 [Repository](https://github.com/amanshukla87/Arduino-Based-Radar-System-for-Object-Detection)
 
 ### C Programming
 
-A structured C programming repository covering fundamentals, pointers, structures, file handling, dynamic memory, linked lists, and other data-structure practice.
+A practical C programming repository covering core language concepts, pointers, structures, file handling, dynamic memory, linked lists, and related programming exercises.
 
 [Repository](https://github.com/amanshukla87/c-programming)
 
 ### ECG Heartbeat Monitoring System
 
-**Arduino UNO · AD8232 · Serial Data Acquisition**
+**Arduino UNO · AD8232 · Serial Data Acquisition · Processing**
 
-Educational prototype for ECG signal acquisition and monitoring using an AD8232 sensor and Arduino UNO.
+Educational prototype for acquiring ECG signals using an AD8232 module and Arduino UNO, with serial data visualization and monitoring through Processing.
 
 [Repository](https://github.com/amanshukla87/ECG-Heartbeat-Monitoring-System)
 
 ### Embedded Vision Research
 
-During my summer research work at IIT Jodhpur, I worked on a camera-integrated drone surveillance project involving Raspberry Pi, computer vision, and lightweight deep-learning inference.
+During my summer research internship at **IIT Jodhpur**, I worked on a camera-integrated drone surveillance system using Raspberry Pi, computer vision, and lightweight deep-learning-based detection.
 
 ## Experience
 
 **Summer Research Intern — IIT Jodhpur**  
-Worked on camera-integrated drone surveillance and lightweight computer-vision research using Raspberry Pi and deep-learning-based object detection.
+Worked on lightweight deep-learning-based image classification/detection for a camera-integrated drone surveillance application using Raspberry Pi and computer vision.
 
 **Embedded Systems Intern — Autonomous Robotics**  
-Worked on embedded systems, sensors, motor control, Embedded C, and system integration.
+Worked on embedded systems, sensor interfacing, motor control, Embedded C, and system integration.
 
 **IoT & Embedded Systems Intern — CETPA InfoTech**  
-Worked with microcontrollers, sensors, IoT concepts, and hardware interfacing.
+Worked with microcontrollers, sensors, hardware interfacing, and IoT-based embedded applications.
 
 ## Education
 
@@ -89,10 +90,10 @@ Government Polytechnic Saharanpur
 
 ## Achievements
 
-- 1st Rank — College-Level Internal Hackathon
+- Rank 1 — College-Level Internal Hackathon
 - Team Lead — Smart India Hackathon 2025
-- Gold Medal — Academic Excellence, Diploma
-- Silver Medal — Radar-Based Object Detection System
+- Rank 1 — Diploma Academic Performance
+- Silver Medal — Arduino-Based Radar System for Object Detection
 
 ## Certifications
 
