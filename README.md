@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>B.Tech. Electronics Engineering · Sensors & Transducers Technology</b><br>
-  Embedded Software · Firmware · STM32 · C/C++ · Edge AI & Hardware Integration
+  Embedded Software · Firmware · STM32 · C/C++ · Sensors & IoT · Edge AI
 </p>
 
 <p align="center">
@@ -15,11 +15,11 @@
 
 ## About
 
-I am a final-year **Electronics Engineering** student focused on **embedded software, firmware development, and hardware–software integration**.
+I am a final-year **Electronics Engineering** student specializing in **Sensors & Transducers Technology**, with a focus on **embedded software, firmware development, and hardware–software integration**.
 
-My current work involves **C/C++, STM32 microcontrollers, register-level programming, sensor interfacing, embedded communication protocols, and hardware bring-up**. I also explore **Edge AI and computer vision** for resource-constrained embedded platforms.
+My current work involves **C/C++, STM32 microcontrollers, register-level programming, sensor interfacing, embedded communication protocols, and hardware bring-up**. I also explore **Edge AI and computer vision** for resource-constrained platforms.
 
-I prefer learning through practical development — writing firmware, interfacing real hardware, debugging peripherals, validating measurements, and documenting the results.
+I learn through practical development — writing firmware, interfacing real hardware, debugging peripherals, validating measurements, and documenting the results.
 
 ---
 
@@ -30,7 +30,8 @@ I prefer learning through practical development — writing firmware, interfacin
 | **Programming** | C, C++, Embedded C, Python, MATLAB |
 | **Microcontrollers** | STM32, AVR/ATmega, ESP32/ESP8266, Arduino |
 | **Embedded** | GPIO, ADC, PWM, UART, SPI, I2C, CAN, RS485, MQTT |
-| **Platforms** | FreeRTOS, Embedded Linux, Raspberry Pi |
+| **RTOS / Platforms** | FreeRTOS, Embedded Linux, Raspberry Pi |
+| **Sensors & Hardware** | Temperature, current/power, motion/IMU, displays, actuator interfacing |
 | **Edge AI & Vision** | OpenCV, YOLO, PyTorch, TensorFlow, TinyML |
 | **Development Tools** | STM32CubeIDE, Keil, Git, GitHub, CMake, Make, Linux |
 | **Hardware Tools** | Oscilloscope, Logic Analyzer, DSO, ST-LINK, LTspice, KiCad, Proteus |
@@ -41,11 +42,19 @@ I prefer learning through practical development — writing firmware, interfacin
 
 ### STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring
 
-**STM32 NUCLEO-F446RE · Embedded C · DS18B20 · INA219 · SSD1306**
+**STM32 NUCLEO-F446RE · Embedded C · DS18B20 · INA219 · SSD1306 · MPU6050**
 
-Academic project focused on developing a hardware-based industrial condition-monitoring platform. Current work includes STM32 firmware development, peripheral bring-up, temperature and power monitoring, OLED interfacing, and serial diagnostics. **MPU6050 integration and the Edge AI stage are planned next.**
+Academic project focused on developing a hardware-based industrial condition-monitoring platform. Current work includes STM32 firmware, sensor and peripheral bring-up, temperature and power monitoring, OLED interfacing, MPU6050 motion-data acquisition, and UART-based diagnostics. The current MPU6050 stage verifies raw accelerometer and gyroscope data; calculated tilt-angle processing and the Edge AI stage remain future work.
 
 [Repository](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)
+
+### Arduino Based LPG Gas Detector
+
+**Arduino · MQ-series gas sensor · Buzzer · Status LEDs**
+
+A hardware prototype that monitors the gas sensor's analog output and provides local visual and audible indication when the configured threshold is exceeded. The repository includes the Arduino firmware, project documentation, hardware setup images, and project report.
+
+[Repository](https://github.com/amanshukla87/Arduino-Based-LPG-Gas-Detector)
 
 ### Arduino Based Radar System for Object Detection
 
@@ -59,7 +68,7 @@ Developed an ultrasonic radar system that performs distance measurement across a
 
 **C · Data Structures · Pointers · Dynamic Memory**
 
-A practical C programming repository covering language fundamentals, pointers, structures, dynamic memory, file handling, linked lists, and data-structure exercises.
+A practical C programming repository covering language fundamentals, pointers, structures, dynamic memory, file handling, linked lists, stacks, queues, trees, and data-structure exercises.
 
 [Repository](https://github.com/amanshukla87/c-programming)
 
@@ -67,7 +76,7 @@ A practical C programming repository covering language fundamentals, pointers, s
 
 **Arduino UNO · AD8232 · Serial Acquisition · Processing**
 
-Educational prototype for acquiring ECG signals using an AD8232 module and Arduino UNO, with lead-off detection and real-time waveform visualization through Processing.
+Educational prototype for acquiring ECG signals using an AD8232 module and Arduino UNO, with serial waveform visualization through Processing.
 
 [Repository](https://github.com/amanshukla87/ECG-Heartbeat-Monitoring-System)
 
@@ -79,19 +88,7 @@ Educational prototype for acquiring ECG signals using an AD8232 module and Ardui
 
 **June–July 2026**
 
-Worked on a **camera-integrated drone surveillance system** involving Raspberry Pi, camera-based image acquisition, computer vision, and lightweight deep-learning models for resource-constrained deployment.
-
----
-
-## Other Experience
-
-### Embedded Systems Intern — Autonomous Robotics
-
-Worked on embedded systems development involving **sensor interfacing, motor control, Embedded C, and hardware integration**.
-
-### IoT & Embedded Systems Intern — CETPA InfoTech
-
-Worked with **microcontrollers, sensors, hardware interfacing, and IoT-based embedded applications**.
+Worked on a **camera-integrated drone surveillance system** involving a Raspberry Pi, camera-based image acquisition, computer vision, and lightweight deep-learning models for resource-constrained deployment.
 
 ---
 
@@ -101,7 +98,7 @@ Worked with **microcontrollers, sensors, hardware interfacing, and IoT-based emb
 
 **Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti**
 
-2024–2027 · **Honors: Sensors & Transducers Technology**
+2024–2027 · **Specialization: Sensors & Transducers Technology**
 
 ### Diploma in Electronics Engineering
 
@@ -113,10 +110,10 @@ Worked with **microcontrollers, sensors, hardware interfacing, and IoT-based emb
 
 ## Achievements
 
-- **Rank 1** — College-Level Internal Hackathon
-- **Team Lead** — Smart India Hackathon 2025
 - **Rank 1** — Diploma Academic Performance
 - **Silver Medal** — Arduino-Based Radar System for Object Detection
+- **Team Lead** — Smart India Hackathon 2025
+- **Rank 1** — College-Level Internal Hackathon
 
 ---
 
@@ -133,6 +130,6 @@ Worked with **microcontrollers, sensors, hardware interfacing, and IoT-based emb
 
 ## Current Focus
 
-**Embedded Software → Firmware → Hardware Integration → Edge AI**
+**Embedded Software → Firmware → Hardware Integration → Sensors & IoT → Edge AI**
 
-Currently building hands-on projects around **STM32, Embedded C/C++, sensors, communication interfaces, and lightweight AI deployment**.
+Currently building hands-on projects around **STM32, Embedded C/C++, sensors, communication interfaces, and lightweight AI deployment**, while documenting practical hardware and firmware work in public.
