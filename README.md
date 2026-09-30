@@ -52,7 +52,7 @@ Academic project focused on developing a hardware-based industrial condition-mon
 
 **Arduino UNO · MQ-6 gas sensor · Buzzer · Status LEDs**
 
-A hardware prototype that monitors the MQ-6 gas sensor's analog output and provides local visual and audible indication when the configured threshold is exceeded. The repository includes the Arduino firmware, project report, hardware setup views, and testing media.
+A hardware prototype that monitors the MQ-6 gas sensor's analog output and provides local visual and audible indication when the configured threshold is exceeded. The repository includes the Arduino firmware, project report, multiple hardware setup views, and testing video.
 
 [Repository](https://github.com/amanshukla87/Arduino-Based-LPG-Gas-Detector)
 
