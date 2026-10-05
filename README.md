@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanshukla87/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/amanshukla87/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v16/icons/linkedin.svg" height="24" alt="LinkedIn"/></a>
   &nbsp;
   <a href="mailto:amanshuklaab106@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email"/></a>
   &nbsp;
