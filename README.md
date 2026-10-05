@@ -1,135 +1,87 @@
 <h1 align="center">Aman Shukla</h1>
 
 <p align="center">
-  <b>B.Tech. Electronics Engineering · Sensors & Transducers Technology</b><br>
-  Embedded Software · Firmware · STM32 · C/C++ · Sensors & IoT · Edge AI
+  <b>Electronics Engineering '27</b> · Embedded Software · Firmware · STM32 · C/C++ · Edge AI
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amanshukla87/">LinkedIn</a> ·
-  <a href="mailto:amanshuklaab106@gmail.com">Email</a> ·
-  <a href="https://github.com/amanshukla87">GitHub</a>
+  <a href="https://www.linkedin.com/in/amanshukla87/"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="24" alt="LinkedIn"/></a>
+  &nbsp;
+  <a href="mailto:amanshuklaab106@gmail.com"><img src="https://cdn.simpleicons.org/gmail/EA4335" height="24" alt="Email"/></a>
+  &nbsp;
+  <a href="https://github.com/amanshukla87"><img src="https://cdn.simpleicons.org/github/181717" height="24" alt="GitHub"/></a>
 </p>
 
 ---
 
-## About
+### About
 
-I am a final-year **Electronics Engineering** student specializing in **Sensors & Transducers Technology**, with a focus on **embedded software, firmware development, and hardware–software integration**.
+Final-year Electronics Engineering student focused on **embedded software, firmware, STM32, sensor interfacing, and hardware–software integration**.
 
-My current work involves **C/C++, STM32 microcontrollers, register-level programming, sensor interfacing, embedded communication protocols, and hardware bring-up**. I also explore **Edge AI and computer vision** for resource-constrained platforms.
+Currently working with **C/C++, register-level STM32 firmware, embedded communication, and Edge AI / computer vision**.
 
-I learn through practical development — writing firmware, interfacing real hardware, debugging peripherals, validating measurements, and documenting the results.
-
----
-
-## Technical Skills
-
-| Area | Technologies |
-|---|---|
-| **Programming** | C, C++, Embedded C, Python, MATLAB |
-| **Microcontrollers** | STM32, AVR/ATmega, ESP32/ESP8266, Arduino |
-| **Embedded** | GPIO, ADC, PWM, UART, SPI, I2C, CAN, RS485, MQTT |
-| **RTOS / Platforms** | FreeRTOS, Embedded Linux, Raspberry Pi |
-| **Sensors & Hardware** | Temperature, current/power, motion/IMU, displays, actuator interfacing |
-| **Edge AI & Vision** | OpenCV, YOLO, PyTorch, TensorFlow, TinyML |
-| **Development Tools** | STM32CubeIDE, Keil, Git, GitHub, CMake, Make, Linux |
-| **Hardware Tools** | Oscilloscope, Logic Analyzer, DSO, ST-LINK, LTspice, KiCad, Proteus |
+**Summer Research Intern — IIT Jodhpur · 2026**
 
 ---
 
-## Featured Projects
+### Languages and Tools
 
-### STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring
+<p align="left">
+  <a href="https://en.cppreference.com/w/c"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  <a href="https://isocpp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://www.mathworks.com/products/matlab.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB"/></a>
+  <a href="https://opencv.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV"/></a>
+  <a href="https://pandas.pydata.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas"/></a>
+  <a href="https://www.raspberrypi.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" alt="Raspberry Pi"/></a>
+  <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="40" height="40" alt="Arduino"/></a>
+  <a href="https://www.st.com/en/development-tools/stm32cubeide.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stm32/stm32-original.svg" width="40" height="40" alt="STM32CubeIDE"/></a>
+  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html"><img src="https://cdn.simpleicons.org/ltspice/8B8B8B" width="40" height="40" alt="LTspice"/></a>
+  <a href="https://eda.sw.siemens.com/en-US/ic/modelsim/"><img src="https://cdn.simpleicons.org/siemens/009999" width="40" height="40" alt="ModelSim"/></a>
+  <a href="https://www.intel.com/content/www/us/en/products/details/fpga.html"><img src="https://cdn.simpleicons.org/intel/0071C5" width="40" height="40" alt="Intel FPGA"/></a>
+</p>
 
-**STM32 NUCLEO-F446RE · Embedded C · DS18B20 · INA219 · SSD1306 · MPU6050**
-
-Academic project focused on developing a hardware-based industrial condition-monitoring platform. Current work includes STM32 firmware, sensor and peripheral bring-up, temperature and power monitoring, OLED interfacing, MPU6050 motion-data acquisition, and UART-based diagnostics. The current MPU6050 stage verifies raw accelerometer and gyroscope data; calculated tilt-angle processing and the Edge AI stage remain future work.
-
-[Repository](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)
-
-### Arduino Based LPG Gas Detector
-
-**Arduino UNO · MQ-6 gas sensor · Buzzer · Status LEDs**
-
-A hardware prototype that monitors the MQ-6 gas sensor's analog output and provides local visual and audible indication when the configured threshold is exceeded. The repository includes the Arduino firmware, project report, multiple hardware setup views, and testing video.
-
-[Repository](https://github.com/amanshukla87/Arduino-Based-LPG-Gas-Detector)
-
-### Arduino Based Radar System for Object Detection
-
-**Arduino UNO · HC-SR04 · SG90 Servo · I2C LCD · Processing**
-
-Developed an ultrasonic radar system that performs distance measurement across a servo sweep and visualizes the scanning result through a Processing-based interface, with local LED and buzzer indication.
-
-[Repository](https://github.com/amanshukla87/Arduino-Based-Radar-System-for-Object-Detection)
-
-### C Programming
-
-**C · Data Structures · Pointers · Dynamic Memory**
-
-A practical C programming repository covering language fundamentals, pointers, structures, dynamic memory, file handling, linked lists, stacks, queues, trees, and data-structure exercises.
-
-[Repository](https://github.com/amanshukla87/c-programming)
-
-### ECG Heartbeat Monitoring System
-
-**Arduino UNO · AD8232 · Serial Acquisition · Processing**
-
-Educational prototype for acquiring ECG signals using an AD8232 module and Arduino UNO, with serial waveform visualization through Processing.
-
-[Repository](https://github.com/amanshukla87/ECG-Heartbeat-Monitoring-System)
+**Embedded:** GPIO · ADC · PWM · UART · SPI · I2C · CAN · RS485 · FreeRTOS  
+**Tools:** Git · GitHub · ST-LINK · Oscilloscope · Logic Analyzer · KiCad · Proteus · Keil
 
 ---
 
-## Research Experience
+### Projects
 
-### Summer Research Intern — IIT Jodhpur
+**STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring**  
+STM32F446RE · Embedded C · DS18B20 · INA219 · MPU6050 · SSD1306  
+Register-level STM32 firmware for temperature, power, and motion sensing with OLED and UART diagnostics.  
+→ [Repository](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)
 
-**June–July 2026**
+**Lightweight DL-based Drone Image Classification for Surveillance Applications**  
+Raspberry Pi 4 · Camera V3 · Pixhawk 2.4.8 · YOLO11n · VisDrone  
+Developed during the **IIT Jodhpur Summer Research Internship 2026**, focused on lightweight vision inference for a drone platform.
 
-Worked on a **camera-integrated drone surveillance system** involving a Raspberry Pi, camera-based image acquisition, computer vision, and lightweight deep-learning models for resource-constrained deployment.
+**Arduino-Based LPG Gas Detector**  
+Arduino UNO · MQ-6 · Buzzer · LEDs  
+→ [Repository](https://github.com/amanshukla87/Arduino-Based-LPG-Gas-Detector)
 
----
-
-## Education
-
-### B.Tech. Electronics Engineering — AKTU
-
-**Bharat Ratna Sardar Vallabhbhai Patel Rajkiya Engineering College, Basti**
-
-2024–2027 · **Specialization: Sensors & Transducers Technology**
-
-### Diploma in Electronics Engineering
-
-**Government Polytechnic Saharanpur**
-
-2019–2022 · **First Division with Honours**
+**Arduino-Based Radar System**  
+Arduino UNO · HC-SR04 · SG90 · I2C LCD · Processing  
+→ [Repository](https://github.com/amanshukla87/Arduino-Based-Radar-System-for-Object-Detection)
 
 ---
 
-## Achievements
+### Most Used Languages
 
-- **Rank 1** — Diploma Academic Performance
-- **Silver Medal** — Arduino-Based Radar System for Object Detection
-- **Team Lead** — Smart India Hackathon 2025
-- **Rank 1** — College-Level Internal Hackathon
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanshukla87&layout=compact&langs_count=6&hide_border=true" alt="Most Used Languages"/>
+</p>
 
----
+### GitHub Stats
 
-## Certifications
-
-- **Digital System Design** — NPTEL, IIT Ropar
-- **Micro Sensors & Nano Sensors** — NPTEL, IIT Guwahati
-- **Introduction to IoT** — NPTEL, IIT Kharagpur
-- **Deep Dive into Deep Learning** — Scaler
-- **VLSI Design & Verilog Programming** — Udemy
-- **VLSI Design with AI: Basics to Advanced** — IIT Madras Pravartak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amanshukla87&show_icons=true&hide_border=true&rank_icon=github" height="165" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amanshukla87&hide_border=true" height="165" alt="GitHub Streak"/>
+</p>
 
 ---
 
-## Current Focus
-
-**Embedded Software → Firmware → Hardware Integration → Sensors & IoT → Edge AI**
-
-Currently building hands-on projects around **STM32, Embedded C/C++, sensors, communication interfaces, and lightweight AI deployment**, while documenting practical hardware and firmware work in public.
+<p align="center">
+  <i>Building firmware, interfacing hardware, and documenting the work.</i>
+</p>
