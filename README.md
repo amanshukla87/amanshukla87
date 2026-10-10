@@ -46,27 +46,6 @@ Currently working with **C/C++, register-level STM32 firmware, embedded communic
 
 ---
 
-### Projects
-
-**STM32-Based Lightweight Edge AI for Multisensor Industrial Condition Monitoring**  
-STM32F446RE · Embedded C · DS18B20 · INA219 · MPU6050 · SSD1306  
-Register-level STM32 firmware for temperature, power, and motion sensing with OLED and UART diagnostics.  
-→ [Repository](https://github.com/amanshukla87/stm32-edge-ai-condition-monitoring)
-
-**Lightweight DL-based Drone Image Classification for Surveillance Applications**  
-Raspberry Pi 4 · Camera V3 · Pixhawk 2.4.8 · YOLO11n · VisDrone  
-Developed during the **IIT Jodhpur Summer Research Internship 2026**, focused on lightweight vision inference for a drone platform.
-
-**Arduino-Based LPG Gas Detector**  
-Arduino UNO · MQ-6 · Buzzer · LEDs  
-→ [Repository](https://github.com/amanshukla87/Arduino-Based-LPG-Gas-Detector)
-
-**Arduino-Based Radar System**  
-Arduino UNO · HC-SR04 · SG90 · I2C LCD · Processing  
-→ [Repository](https://github.com/amanshukla87/Arduino-Based-Radar-System-for-Object-Detection)
-
----
-
 ### Most Used Languages
 
 <p align="center">
